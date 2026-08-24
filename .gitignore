@@ -34,4 +34,4 @@ venv/
 # IDE
 .vscode/
 .idea/
-EOF
+EOF*.duckdb
