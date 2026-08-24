@@ -37,3 +37,4 @@ venv/
 EOF*.duckdb
 data/processed/*.parquet
 data/processed/*.parquet
+*.duckdb
