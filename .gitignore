@@ -38,3 +38,4 @@ EOF*.duckdb
 data/processed/*.parquet
 data/processed/*.parquet
 *.duckdb
+data/processed/*.parquet
